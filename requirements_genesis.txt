@@ -1,3 +1,5 @@
+transformers
+scikit-learn
 torch
 torchvision
 mujoco
@@ -6,3 +8,7 @@ opencv-python
 filterpy
 psutil
 numpy
+scipy
+loguru
+joblib
+pytest
